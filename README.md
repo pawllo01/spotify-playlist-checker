@@ -17,8 +17,8 @@ and to find possible alternatives. Just click on the album cover next to the tra
 ## FAQ
 
 ### What does it mean track is on unavailable album?
-It means artist or label deleted this album from Spotify, however in 99% of the time they re-released them again.
+It means artist or label deleted this album from Spotify, however in 99% of cases they re-released it again.
 
 ### Why artists/labels re-release albums?
-Basically to fix metadata like track names, release date, etc.
+Basically, to fix metadata like track names, release date, etc.
 It's not easy to make changes to an already released album. Artists or labels first need to remove the album and then re-add it with fixed metadata.
