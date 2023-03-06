@@ -1,5 +1,5 @@
 const client_id = "ede376b0eea74a35b1215334183955d0";
-const redirect_uri = "http://127.0.0.1:5500/index.html";
+const redirect_uri = "https://pawllo01.github.io/spotify-playlist-checker/";
 let token;
 
 const prev = document.querySelector(".prev");
