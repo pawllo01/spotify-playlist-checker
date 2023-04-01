@@ -16,7 +16,7 @@ This app allows you to scan a playlist and find tracks on unavailable albums.
 
 First, delete the track from your playlist / liked songs and then re-add it.
 
-I also recommend using [Spotify Album Availability](https://developer.spotify.com/community/showcase/album-availability/) to visualise where the album is available
+I also recommend using [Spotify Album Availability](https://github.com/kaaes/albums-availability) to visualise where the album is available
 and to find possible alternatives. Just click on the album cover next to the track name.
 
 ## FAQ
